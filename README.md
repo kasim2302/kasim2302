@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed kasim 
 - 👀 I’m interested in web development and App Development.
-- 🌱 I’m currently learning javascript and Angular,python.
+- 🌱 I’m currently learning javascript and Reactjs,python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
